@@ -3,12 +3,12 @@ https://medium.com/@marcosantonocito/fixing-the-gh001-large-files-detected-you-m
 
 Error occured in local of window when push to code
 
-remote: Resolving deltas: 100% (43/43), done.
-remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
-remote: error: Trace: ed6fa5ff6faac7a72e1d77e38ca5417a2ef111167d49cda0cd3a90c7c0c21663
-remote: error: See http://git.io/iEPt8g for more information.
+remote: Resolving deltas: 100% (43/43), done.\
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.\
+remote: error: Trace: ed6fa5ff6faac7a72e1d77e38ca5417a2ef111167d49cda0cd3a90c7c0c21663\
+remote: error: See http://git.io/iEPt8g for more information.\
 remote: error: File **croc-stdin-738110029** is 392.36 MB; this exceeds GitHub's file size limit of 100.00 MB
-To https://github.com/RahulPhpDev/online_shop.git
+To https://github.com/RahulPhpDev/online_shop.git\
 
 
 
